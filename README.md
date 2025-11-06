@@ -41,10 +41,27 @@ venv\Scripts\activate          # For Windows
 pip install -r requirements.txt
 uvicorn app:app --reload
 ```
-3️⃣ Frontend Setup (React)
+### 3️⃣ Frontend Setup (React)
 ```
 cd ../frontend
 npm install
 npm start
 ```
+📁 Project Structure
+```
+Diabetes-Prediction-Fastapi-React/
+│
+├── backend/
+│   ├── app.py
+│   ├── pipeline.joblib
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── README.md
+```
+Here’s how the **Diabetes Prediction App** looks in action 👇 
 <img width="1221" height="722" alt="image" src="https://github.com/user-attachments/assets/b24245a8-ff1b-4ba4-9cc5-24642b024bde" />
