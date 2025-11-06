@@ -30,11 +30,11 @@ export default function App() {
     setLoading(true);
     setResult(null);
     try {
-      const response = await axios.post("http://127.0.0.1:8000/predict", formData);
+      const response = await axios.post("https://diabetes-prediction-fasaapi-react.onrender.com/predict", formData);
       setResult(response.data);
     } catch (err) {
       console.error(err);
-      alert("⚠️ Error connecting to backend. Make sure FastAPI is running.");
+      alert("⚠️ Error connecting to backend. Please try again.");
     } finally {
       setLoading(false);
     }
