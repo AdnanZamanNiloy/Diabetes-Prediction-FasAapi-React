@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction App (FastAPI + React)
+# 🩺 Diabetes Risk Prediction (FastAPI + React)
 
 A web application that predicts whether a person is diabetic or not using a **Machine Learning** model built with **Scikit-learn**, served via **FastAPI**, and connected to a **React** frontend.
 
@@ -47,7 +47,7 @@ cd ../frontend
 npm install
 npm start
 ```
-📁 Project Structure
+### 📁 Project Structure
 ```
 Diabetes-Prediction-Fastapi-React/
 │
