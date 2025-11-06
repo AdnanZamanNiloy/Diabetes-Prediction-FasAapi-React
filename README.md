@@ -66,4 +66,4 @@ Diabetes-Prediction-Fastapi-React/
 Here’s how the **Diabetes Risk Prediction** looks in action 👇 
 - https://diabetes-prediction-fas-aapi-react.vercel.app/
 ---
-<img width="1221" height="722" alt="image" src="https://github.com/user-attachments/assets/b24245a8-ff1b-4ba4-9cc5-24642b024bde" />
+<img width="861" height="881" alt="image" src="https://github.com/user-attachments/assets/0728816c-f79f-4950-bc3f-d31ceb8ccff4" />
