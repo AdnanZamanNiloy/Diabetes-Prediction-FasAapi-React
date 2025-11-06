@@ -63,5 +63,6 @@ Diabetes-Prediction-Fastapi-React/
 │
 └── README.md
 ```
-Here’s how the **Diabetes Prediction App** looks in action 👇 
+Here’s how the **Diabetes Risk Prediction** looks in action 👇 
+https://diabetes-prediction-fas-aapi-react.vercel.app/
 <img width="1221" height="722" alt="image" src="https://github.com/user-attachments/assets/b24245a8-ff1b-4ba4-9cc5-24642b024bde" />
